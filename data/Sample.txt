@@ -1,0 +1,2256 @@
+{  
+   "T042":{  
+      "local":"Zhenzhou",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus"
+      ],
+      "long":"113.581375",
+      "contig":"97",
+      "lib":"1,587,008",
+      "lat":"34.91895",
+      "L50":"225"
+   },
+   "T145":{  
+      "local":"Unknown",
+      "contig":"99",
+      "long":"NA",
+      "virus":[  
+         "Tomato yellow leaf curl virus"
+      ],
+      "lib":"961,749",
+      "L50":"155",
+      "lat":"NA"
+   },
+   "T121":{  
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus",
+         "Tomato mosaic virus",
+         "Chilli veinal mottle virus",
+         "Potato virus Y"
+      ],
+      "long":"117",
+      "contig":"155",
+      "local":"Jinan",
+      "lat":"36.0066667",
+      "L50":"2,557",
+      "lib":"2,021,518"
+   },
+   "T095":{  
+      "lib":"2,830,360",
+      "lat":"29.4961111",
+      "L50":"4,762",
+      "local":"Chongqing",
+      "long":"106.3486111",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato zonate spot virus",
+         "Cucumber mosaic virus",
+         "Tomato mottle mosaic virus",
+         "Chilli veinal mottle virus",
+         "Potato virus Y"
+      ],
+      "contig":"109"
+   },
+   "T044":{  
+      "local":"Zhenzhou",
+      "long":"113.581375",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "contig":"55",
+      "lib":"395,838",
+      "lat":"34.91895",
+      "L50":"489"
+   },
+   "T009":{  
+      "long":"121.3807222",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato chlorosis virus",
+         "Tomato mosaic virus"
+      ],
+      "contig":"63",
+      "local":"Shanghai",
+      "lat":"30.8909444",
+      "L50":"1,734",
+      "lib":"944,546"
+   },
+   "T169":{  
+      "lat":"28.309048",
+      "L50":"88",
+      "lib":"692,661",
+      "long":"113.222067",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Southern tomato virus"
+      ],
+      "contig":"92",
+      "local":"Changsha"
+   },
+   "T188":{  
+      "lib":"2,799,851",
+      "L50":"6,384",
+      "lat":"45.6323806",
+      "local":"Haerbin",
+      "contig":"158",
+      "long":"126.6493306",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Potato virus Y"
+      ]
+   },
+   "T098":{  
+      "lib":"1,091,692",
+      "L50":"83",
+      "lat":"41.8283333",
+      "local":"Shenyang",
+      "contig":"179",
+      "virus":[  
+         "Southern tomato virus"
+      ],
+      "long":"123.54"
+   },
+   "T149":{  
+      "lib":"560,209",
+      "lat":"NA",
+      "L50":"228",
+      "local":"Xian-Shanxi",
+      "long":"NA",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Potato virus Y",
+         "Tomato mosaic virus",
+         "Tomato chlorosis virus"
+      ],
+      "contig":"208"
+   },
+   "T087":{  
+      "lib":"1,534,330",
+      "lat":"31.163635",
+      "L50":"380",
+      "local":"Shanghai",
+      "long":"121.618117",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Cucumber mosaic virus"
+      ],
+      "contig":"150"
+   },
+   "T032":{  
+      "local":"Shanghai",
+      "contig":"47",
+      "virus":[  
+         "Tomato mosaic virus"
+      ],
+      "long":"121.7012278",
+      "lib":"1,578,655",
+      "L50":"776",
+      "lat":"31.2695972"
+   },
+   "T119":{  
+      "local":"Jinan",
+      "long":"117",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus",
+         "Chilli veinal mottle virus",
+         "Potato virus Y",
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus"
+      ],
+      "contig":"187",
+      "lib":"2,445,148",
+      "lat":"36.0066667",
+      "L50":"3,438"
+   },
+   "T113":{  
+      "virus":[  
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus",
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Chilli veinal mottle virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"117",
+      "contig":"198",
+      "local":"Jinan",
+      "lat":"36.0066667",
+      "L50":"512",
+      "lib":"4,209,180"
+   },
+   "T176":{  
+      "long":"126.6493306",
+      "virus":[  
+         "Potato virus Y",
+         "Tobacco mosaic virus",
+         "Tomato mosaic virus"
+      ],
+      "contig":"71",
+      "local":"Haerbin",
+      "lat":"45.6323806",
+      "L50":"3,125",
+      "lib":"456,016"
+   },
+   "T026":{  
+      "lib":"3,128,297",
+      "L50":"2,651",
+      "lat":"34.6947278",
+      "local":"Zhenzhou",
+      "contig":"132",
+      "virus":[  
+         "Tomato chlorosis virus",
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"113.5520111"
+   },
+   "T057":{  
+      "L50":"4,537",
+      "lat":"31.2697111",
+      "lib":"461,034",
+      "contig":"13",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus",
+         "Pepper mottle virus"
+      ],
+      "long":"121.7013222",
+      "local":"Shanghai"
+   },
+   "T094":{  
+      "local":"Chongqing",
+      "contig":"317",
+      "virus":[  
+         "Tomato yellow mottle-associated virus",
+         "Tomato zonate spot virus",
+         "Chilli veinal mottle virus"
+      ],
+      "long":"106.3672222",
+      "lib":"2,011,126",
+      "L50":"145",
+      "lat":"29.5319444"
+   },
+   "T096":{  
+      "local":"Chongqing",
+      "contig":"225",
+      "long":"106.23",
+      "virus":[  
+         "Tomato yellow mottle-associated virus",
+         "Cucumber mosaic virus",
+         "Tomato zonate spot virus",
+         "Chilli veinal mottle virus",
+         "Potato virus Y"
+      ],
+      "lib":"3,070,388",
+      "L50":"538",
+      "lat":"29.6208333"
+   },
+   "T024":{  
+      "contig":"184",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus",
+         "Tomato chlorosis virus",
+         "Tomato mosaic virus"
+      ],
+      "long":"113.5519333",
+      "local":"Zhenzhou",
+      "L50":"750",
+      "lat":"34.6946",
+      "lib":"1,658,062"
+   },
+   "T177":{  
+      "lib":"372,305",
+      "lat":"45.6323806",
+      "L50":"6,383",
+      "local":"Haerbin",
+      "long":"126.6493306",
+      "virus":[  
+         "Tomato mottle mosaic virus",
+         "Tomato mosaic virus"
+      ],
+      "contig":"17"
+   },
+   "T108":{  
+      "lat":"29.4961111",
+      "L50":"922",
+      "lib":"997,471",
+      "long":"106.3491667",
+      "virus":[  
+         "Chilli veinal mottle virus",
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus",
+         "Tomato yellow mottle-associated virus"
+      ],
+      "contig":"105",
+      "local":"Chongqing"
+   },
+   "T127":{  
+      "lat":"37.463544",
+      "L50":"204",
+      "lib":"2,988,891",
+      "long":"121.447934",
+      "virus":[  
+         "Tomato mottle mosaic virus",
+         "Potato virus Y",
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "contig":"255",
+      "local":"Yantai"
+   },
+   "T025":{  
+      "virus":[  
+         "Potato virus Y",
+         "Tomato mosaic virus",
+         "Tomato chlorosis virus",
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus"
+      ],
+      "long":"113.5519722",
+      "contig":"108",
+      "local":"Zhenzhou",
+      "lat":"34.6945778",
+      "L50":"2,716",
+      "lib":"2,467,165"
+   },
+   "T143":{  
+      "lib":"447,526",
+      "L50":"761",
+      "lat":"NA",
+      "local":"Unknown",
+      "contig":"23",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"NA"
+   },
+   "T142":{  
+      "local":"Shouguang",
+      "contig":"18",
+      "long":"118.865758",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "lib":"466,476",
+      "L50":"3,011",
+      "lat":"36.84291"
+   },
+   "T002":{  
+      "contig":"104",
+      "virus":[  
+         "Tomato mosaic virus"
+      ],
+      "long":"118.865652",
+      "local":"Shouguang",
+      "L50":"72",
+      "lat":"36.842872",
+      "lib":"1,243,344"
+   },
+   "T046":{  
+      "lat":"34.7356556",
+      "L50":"6,346",
+      "lib":"1,684,504",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato mosaic virus"
+      ],
+      "long":"114.1084917",
+      "contig":"56",
+      "local":"Zhenzhou"
+   },
+   "T080":{  
+      "contig":"132",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus"
+      ],
+      "long":"121.2737556",
+      "local":"Yantai",
+      "L50":"3,656",
+      "lat":"37.4838611",
+      "lib":"2,235,045"
+   },
+   "T110":{  
+      "lib":"2,552,100",
+      "L50":"984",
+      "lat":"36.0066667",
+      "local":"Jinan",
+      "contig":"183",
+      "long":"117",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato mottle mosaic virus",
+         "Chilli veinal mottle virus",
+         "Potato virus Y",
+         "Tomato mosaic virus"
+      ]
+   },
+   "T061":{  
+      "local":"Chongqing",
+      "virus":[  
+         "Potato virus H",
+         "Southern tomato virus"
+      ],
+      "long":"106.3672222",
+      "contig":"111",
+      "lib":"712,775",
+      "lat":"29.5319444",
+      "L50":"227"
+   },
+   "T034":{  
+      "lat":"31.2695139",
+      "L50":"133",
+      "lib":"576,402",
+      "long":"121.7012222",
+      "virus":[  
+         "Tomato mosaic virus"
+      ],
+      "contig":"78",
+      "local":"Shanghai"
+   },
+   "T047":{  
+      "lib":"3,895,623",
+      "lat":"34.7356472",
+      "L50":"2,776",
+      "local":"Zhenzhou",
+      "virus":[  
+         "Tomato chlorosis virus",
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"114.1087833",
+      "contig":"111"
+   },
+   "T196":{  
+      "local":"Guangzhou",
+      "long":null,
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato chlorosis virus",
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "contig":"327",
+      "lib":"3,433,001",
+      "lat":"23.126613113.285483",
+      "L50":"209"
+   },
+   "T069":{  
+      "lib":"266,118",
+      "L50":"1,197",
+      "lat":"29.4961111",
+      "local":"Chongqing",
+      "contig":"109",
+      "long":"106.3491667",
+      "virus":[  
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus",
+         "Tomato mosaic virus",
+         "Chilli veinal mottle virus",
+         "Potato virus H"
+      ]
+   },
+   "T054":{  
+      "virus":[  
+         "Pepper mottle virus",
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus"
+      ],
+      "long":"121.7013222",
+      "contig":"59",
+      "local":"Shanghai",
+      "lat":"31.2697111",
+      "L50":"817",
+      "lib":"383,238"
+   },
+   "T036":{  
+      "contig":"12",
+      "long":"113.5812694",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus"
+      ],
+      "local":"Zhenzhou",
+      "L50":"6,288",
+      "lat":"34.9183389",
+      "lib":"924,165"
+   },
+   "T071":{  
+      "local":"Chongqing",
+      "contig":"42",
+      "long":"106.3491667",
+      "virus":[  
+         "Southern tomato virus",
+         "Cucumber mosaic virus",
+         "Chilli veinal mottle virus"
+      ],
+      "lib":"758,716",
+      "L50":"2,759",
+      "lat":"29.4961111"
+   },
+   "T008":{  
+      "local":"Shanghai",
+      "virus":[  
+         "Tomato chlorosis virus",
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"121.3807139",
+      "contig":"37",
+      "lib":"614,545",
+      "lat":"30.8909361",
+      "L50":"880"
+   },
+   "T137":{  
+      "lib":"674,888",
+      "L50":"6,384",
+      "lat":"36.842895",
+      "local":"Shouguang",
+      "contig":"38",
+      "virus":[  
+         "Tomato mosaic virus"
+      ],
+      "long":"118.865612"
+   },
+   "T131":{  
+      "local":"Shouguang",
+      "contig":"365",
+      "virus":[  
+         "Sclerotinia sclerotiorum mitovirus 4",
+         "Tomato mosaic virus",
+         "Cucumber mosaic virus",
+         "Southern tomato virus",
+         "Chilli veinal mottle virus",
+         "Potato virus Y",
+         "Tomato zonate spot virus",
+         "Tomato mottle mosaic virus"
+      ],
+      "long":"118.810857",
+      "lib":"468,036",
+      "L50":"95",
+      "lat":"36.859183"
+   },
+   "T056":{  
+      "local":"Shanghai",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato chlorosis virus",
+         "Southern tomato virus"
+      ],
+      "long":"121.7013222",
+      "contig":"47",
+      "lib":"544,242",
+      "lat":"31.2697111",
+      "L50":"2,177"
+   },
+   "T020":{  
+      "local":"Zhenzhou",
+      "contig":"95",
+      "long":"113.4089944",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus"
+      ],
+      "lib":"754,077",
+      "L50":"100",
+      "lat":"34.8938056"
+   },
+   "T086":{  
+      "contig":"159",
+      "long":"121.618117",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato mottle mosaic virus",
+         "Chilli veinal mottle virus",
+         "Pepper mottle virus",
+         "Tomato mosaic virus"
+      ],
+      "local":"Shanghai",
+      "L50":"141",
+      "lat":"31.163635",
+      "lib":"1,874,486"
+   },
+   "T053":{  
+      "local":"Zhenzhou",
+      "contig":"37",
+      "long":"114.109525",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "lib":"358,642",
+      "L50":"5,889",
+      "lat":"34.7356528"
+   },
+   "T012":{  
+      "lib":"496,781",
+      "L50":"397",
+      "lat":"30.8909306",
+      "local":"Shanghai",
+      "contig":"97",
+      "long":"121.3807083",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato chlorosis virus",
+         "Tomato mosaic virus"
+      ]
+   },
+   "T117":{  
+      "contig":"149",
+      "long":"117",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Cucumber mosaic virus",
+         "Tomato mottle mosaic virus",
+         "Potato virus Y",
+         "Tomato mosaic virus"
+      ],
+      "local":"Jinan",
+      "L50":"1,667",
+      "lat":"36.0066667",
+      "lib":"6,321,108"
+   },
+   "T111":{  
+      "contig":"338",
+      "long":"117",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato mottle mosaic virus",
+         "Potato virus Y",
+         "Chilli veinal mottle virus",
+         "Tomato mosaic virus"
+      ],
+      "local":"Jinan",
+      "L50":"176",
+      "lat":"36.0066667",
+      "lib":"2,748,160"
+   },
+   "T064":{  
+      "contig":"34",
+      "long":"106.3491667",
+      "virus":[  
+         "Chilli veinal mottle virus"
+      ],
+      "local":"Chongqing",
+      "L50":"9,747",
+      "lat":"29.4961111",
+      "lib":"1,002,554"
+   },
+   "T073":{  
+      "lib":"741,233",
+      "lat":"29.4961111",
+      "L50":"1,574",
+      "local":"Chongqing",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus",
+         "Chilli veinal mottle virus",
+         "Potato virus Y"
+      ],
+      "long":"106.3491667",
+      "contig":"68"
+   },
+   "T175":{  
+      "local":"Qingdao",
+      "contig":"244",
+      "long":"120.396622",
+      "virus":[  
+         "Tomato chlorosis virus",
+         "Cucumber mosaic virus",
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus"
+      ],
+      "lib":"2,157,044",
+      "L50":"299",
+      "lat":"36.321518"
+   },
+   "T088":{  
+      "L50":"106",
+      "lat":"31.3027222",
+      "lib":"986,740",
+      "contig":"114",
+      "virus":[  
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"120.6230556",
+      "local":"Suzhou"
+   },
+   "T171":{  
+      "contig":"338",
+      "long":"113.950401",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Tomato spotted wilt virus",
+         "Cucumber mosaic virus"
+      ],
+      "local":"Changsha",
+      "L50":"78",
+      "lat":"28.23514",
+      "lib":"1,522,526"
+   },
+   "T097":{  
+      "long":"120.5350361",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Chilli veinal mottle virus",
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus"
+      ],
+      "contig":"138",
+      "local":"Longkou",
+      "lat":"37.6615639",
+      "L50":"673",
+      "lib":"3,208,083"
+   },
+   "T079":{  
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus",
+         "Potato virus Y"
+      ],
+      "long":"121.2737556",
+      "contig":"195",
+      "local":"Yantai",
+      "lat":"37.4838611",
+      "L50":"249",
+      "lib":"1,394,562"
+   },
+   "T100":{  
+      "lat":"34",
+      "L50":"84",
+      "lib":"1,270,161",
+      "virus":[  
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"117",
+      "contig":"84",
+      "local":"Xuzhou"
+   },
+   "T099":{  
+      "lib":"1,645,128",
+      "L50":"140",
+      "lat":"34",
+      "local":"Xuzhou",
+      "contig":"195",
+      "long":"117",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus",
+         "Cucumber mosaic virus"
+      ]
+   },
+   "T125":{  
+      "L50":"174",
+      "lat":"37.463544",
+      "lib":"1,016,675",
+      "contig":"175",
+      "long":"121.447934",
+      "virus":[  
+         "Potato virus Y",
+         "Tomato yellow leaf curl virus"
+      ],
+      "local":"Yantai"
+   },
+   "T091":{  
+      "local":"Chongqing",
+      "contig":"74",
+      "virus":[  
+         "Potato virus A",
+         "Turnip yellows virus",
+         "Tomato mottle mosaic virus",
+         "Chilli veinal mottle virus",
+         "Southern tomato virus"
+      ],
+      "long":"106.3486111",
+      "lib":"1,148,916",
+      "L50":"6,243",
+      "lat":"29.4961111"
+   },
+   "T189":{  
+      "contig":"104",
+      "long":"126.6493306",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Tomato spotted wilt virus",
+         "Cucumber mosaic virus"
+      ],
+      "local":"Haerbin",
+      "L50":"6,383",
+      "lat":"45.6323806",
+      "lib":"2,566,893"
+   },
+   "T181":{  
+      "L50":"607",
+      "lat":"45.6323806",
+      "lib":"1,358,136",
+      "contig":"77",
+      "long":"126.6493306",
+      "virus":[  
+         "Potato virus Y",
+         "Tomato mosaic virus"
+      ],
+      "local":"Haerbin"
+   },
+   "T049":{  
+      "local":"Zhenzhou",
+      "contig":"28",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Tomato chlorosis virus",
+         "Potato virus Y",
+         "Southern tomato virus"
+      ],
+      "long":"114.1093972",
+      "lib":"1,085,639",
+      "L50":"3,414",
+      "lat":"34.7356861"
+   },
+   "T123":{  
+      "L50":"141",
+      "lat":"37.463544",
+      "lib":"3,439,796",
+      "contig":"298",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Cucumber mosaic virus",
+         "Potato virus Y",
+         "Tomato mosaic virus"
+      ],
+      "long":"121.447934",
+      "local":"Yantai"
+   },
+   "T102":{  
+      "local":"Xuzhou",
+      "contig":"328",
+      "long":"117",
+      "virus":[  
+         "Chilli veinal mottle virus",
+         "Potato virus Y",
+         "Turnip yellows virus",
+         "Southern tomato virus"
+      ],
+      "lib":"1,542,604",
+      "L50":"109",
+      "lat":"34"
+   },
+   "T151":{  
+      "lat":"NA",
+      "L50":"386",
+      "lib":"475,947",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Tomato chlorosis virus",
+         "Cucumber mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"NA",
+      "contig":"116",
+      "local":"Xian-Shanxi"
+   },
+   "T105":{  
+      "lat":"29.6222222",
+      "L50":"1,134",
+      "lib":"2,222,651",
+      "long":"106.2308333",
+      "virus":[  
+         "Tomato mottle mosaic virus",
+         "Tomato zonate spot virus",
+         "Chilli veinal mottle virus"
+      ],
+      "contig":"116",
+      "local":"Chongqing"
+   },
+   "T156":{  
+      "local":"Panzhihua",
+      "contig":"247",
+      "long":"101.724462",
+      "virus":[  
+         "Tomato spotted wilt virus",
+         "Potato virus Y",
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus"
+      ],
+      "lib":"1,094,290",
+      "L50":"348",
+      "lat":"26.586638"
+   },
+   "T055":{  
+      "L50":"5,694",
+      "lat":"31.2697111",
+      "lib":"533,122",
+      "contig":"32",
+      "long":"121.7013222",
+      "virus":[  
+         "Pepper mottle virus",
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus"
+      ],
+      "local":"Shanghai"
+   },
+   "T144":{  
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus"
+      ],
+      "long":"NA",
+      "contig":"116",
+      "local":"Unknown",
+      "lat":"NA",
+      "L50":"78",
+      "lib":"499,113"
+   },
+   "T136":{  
+      "L50":"6,382",
+      "lat":"36.859125",
+      "lib":"482,351",
+      "contig":"7",
+      "virus":[  
+         "Tomato mosaic virus"
+      ],
+      "long":"118.811078",
+      "local":"Shouguang"
+   },
+   "T093":{  
+      "contig":"164",
+      "long":"106.2219444",
+      "virus":[  
+         "Tomato yellow mottle-associated virus",
+         "Chilli veinal mottle virus",
+         "Tomato mosaic virus",
+         "Cucumber mosaic virus",
+         "Tomato mottle mosaic virus"
+      ],
+      "local":"Chongqing",
+      "L50":"1,009",
+      "lat":"29.6169444",
+      "lib":"1,336,355"
+   },
+   "T135":{  
+      "contig":"146",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Cucumber mosaic virus"
+      ],
+      "long":"118.865625",
+      "local":"Shouguang",
+      "L50":"126",
+      "lat":"36.842873",
+      "lib":"1,070,641"
+   },
+   "T183":{  
+      "lib":"1,115,492",
+      "L50":"188",
+      "lat":"45.6323806",
+      "local":"Haerbin",
+      "contig":"193",
+      "virus":[  
+         "Tomato mosaic virus"
+      ],
+      "long":"126.6493306"
+   },
+   "T013":{  
+      "lib":"1,003,693",
+      "lat":"30.8909389",
+      "L50":"747",
+      "local":"Shanghai",
+      "long":"121.3807167",
+      "virus":[  
+         "Tomato chlorosis virus",
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "contig":"96"
+   },
+   "T006":{  
+      "lib":"1,904,516",
+      "L50":"1,771",
+      "lat":"34.8958361",
+      "local":"Zhenzhou",
+      "contig":"46",
+      "long":"113.4100944",
+      "virus":[  
+         "Tomato aspermy virus"
+      ]
+   },
+   "T124":{  
+      "lat":"37.463544",
+      "L50":"140",
+      "lib":"1,272,889",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato mosaic virus"
+      ],
+      "long":"121.447934",
+      "contig":"193",
+      "local":"Yantai"
+   },
+   "T130":{  
+      "lib":"392,969",
+      "L50":"102",
+      "lat":"26",
+      "local":"Hengyang",
+      "contig":"76",
+      "long":"112",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato mosaic virus",
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus"
+      ]
+   },
+   "T001":{  
+      "contig":"85",
+      "virus":[  
+         "Tomato mosaic virus"
+      ],
+      "long":"118.81089",
+      "local":"Shouguang",
+      "L50":"1,291",
+      "lat":"36.85927",
+      "lib":"1,412,054"
+   },
+   "T077":{  
+      "lib":"2,551,657",
+      "lat":"29.4961111",
+      "L50":"955",
+      "local":"Chongqing",
+      "long":"106.3486111",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato mottle mosaic virus",
+         "Potato virus Y",
+         "Chilli veinal mottle virus",
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus"
+      ],
+      "contig":"258"
+   },
+   "T043":{  
+      "lib":"2,471,309",
+      "L50":"1,683",
+      "lat":"34.7356889",
+      "local":"Zhenzhou",
+      "contig":"61",
+      "long":"114.1092361",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Tomato yellow leaf curl virus"
+      ]
+   },
+   "T065":{  
+      "contig":"108",
+      "virus":[  
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus",
+         "Tomato yellow mottle-associated virus"
+      ],
+      "long":"106.3486111",
+      "local":"Chongqing",
+      "L50":"967",
+      "lat":"29.4961111",
+      "lib":"615,544"
+   },
+   "T039":{  
+      "L50":"2,779",
+      "lat":"34.918275",
+      "lib":"5,297,388",
+      "contig":"90",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus",
+         "Potato virus Y"
+      ],
+      "long":"113.58125",
+      "local":"Zhenzhou"
+   },
+   "T109":{  
+      "L50":"296",
+      "lat":"36.0066667",
+      "lib":"2,120,211",
+      "contig":"245",
+      "long":"117",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus",
+         "Potato virus Y",
+         "Chilli veinal mottle virus",
+         "Tomato mosaic virus",
+         "Tomato zonate spot virus",
+         "Tomato mottle mosaic virus"
+      ],
+      "local":"Jinan"
+   },
+   "T051":{  
+      "long":"114.1093861",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "contig":"11",
+      "local":"Zhenzhou",
+      "lat":"34.7356778",
+      "L50":"6,384",
+      "lib":"637,963"
+   },
+   "T104":{  
+      "lat":"29.4961111",
+      "L50":"6,399",
+      "lib":"2,966,483",
+      "virus":[  
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus",
+         "Tomato zonate spot virus",
+         "Tomato mosaic virus",
+         "Chilli veinal mottle virus"
+      ],
+      "long":"106.3486111",
+      "contig":"63",
+      "local":"Chongqing"
+   },
+   "T004":{  
+      "lib":"359,157",
+      "L50":"165",
+      "lat":"28.011025",
+      "local":"Wenzhou",
+      "contig":"86",
+      "long":"120.6337722",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus"
+      ]
+   },
+   "T182":{  
+      "virus":[  
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Cucumber mosaic virus"
+      ],
+      "long":"126.6493306",
+      "contig":"58",
+      "local":"Haerbin",
+      "lat":"45.6323806",
+      "L50":"6,383",
+      "lib":"3,067,765"
+   },
+   "T195":{  
+      "lib":"768,840",
+      "L50":"100",
+      "lat":"31.0552778",
+      "local":"Shanghai",
+      "contig":"252",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Potato virus Y"
+      ],
+      "long":"121.2261111"
+   },
+   "T150":{  
+      "lib":"388,237",
+      "lat":"NA",
+      "L50":"1,012",
+      "local":"Xian-Shanxi",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Potato virus Y",
+         "Tomato mosaic virus"
+      ],
+      "long":"NA",
+      "contig":"102"
+   },
+   "T118":{  
+      "local":"Jinan",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Cucumber mosaic virus"
+      ],
+      "long":"117",
+      "contig":"133",
+      "lib":"4,390,325",
+      "lat":"36.0066667",
+      "L50":"6,383"
+   },
+   "T033":{  
+      "local":"Shanghai",
+      "long":"NA",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus",
+         "Tomato mosaic virus"
+      ],
+      "contig":"108",
+      "lib":"932,260",
+      "lat":"NA",
+      "L50":"265"
+   },
+   "T075":{  
+      "contig":"254",
+      "virus":[  
+         "Chilli veinal mottle virus",
+         "Potato virus Y",
+         "Cucumber mosaic virus"
+      ],
+      "long":"106.3491667",
+      "local":"Chongqing",
+      "L50":"417",
+      "lat":"29.4961111",
+      "lib":"1,405,448"
+   },
+   "T115":{  
+      "L50":"1,685",
+      "lat":"36.0066667",
+      "lib":"978,367",
+      "contig":"196",
+      "long":"117",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus",
+         "Potato virus S",
+         "Potato virus Y",
+         "Tomato mottle mosaic virus"
+      ],
+      "local":"Jinan"
+   },
+   "T106":{  
+      "lib":"1,395,720",
+      "L50":"6,399",
+      "lat":"29.6222222",
+      "local":"Chongqing",
+      "contig":"66",
+      "long":"106.2308333",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Chilli veinal mottle virus",
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus",
+         "Tomato zonate spot virus"
+      ]
+   },
+   "T059":{  
+      "local":"Shanghai",
+      "long":"121.7013222",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Cucumber mosaic virus",
+         "Tomato chlorosis virus"
+      ],
+      "contig":"131",
+      "lib":"669,938",
+      "lat":"31.2697111",
+      "L50":"1,336"
+   },
+   "T023":{  
+      "local":"Zhenzhou",
+      "contig":"26",
+      "long":"113.5529222",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus",
+         "Potato virus Y"
+      ],
+      "lib":"1,685,846",
+      "L50":"6,364",
+      "lat":"34.6941861"
+   },
+   "T126":{  
+      "lib":"1,336,498",
+      "lat":"37.463544",
+      "L50":"162",
+      "local":"Yantai",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Southern tomato virus"
+      ],
+      "long":"121.447934",
+      "contig":"192"
+   },
+   "T063":{  
+      "contig":"37",
+      "long":"106.3486111",
+      "virus":[  
+         "Southern tomato virus",
+         "Cucumber mosaic virus",
+         "Tomato mottle mosaic virus",
+         "Chilli veinal mottle virus"
+      ],
+      "local":"Chongqing",
+      "L50":"3,241",
+      "lat":"29.4961111",
+      "lib":"939,004"
+   },
+   "T041":{  
+      "L50":"257",
+      "lat":"34.9184611",
+      "lib":"1,496,727",
+      "contig":"99",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus"
+      ],
+      "long":"113.5813889",
+      "local":"Zhenzhou"
+   },
+   "T070":{  
+      "local":"Chongqing",
+      "long":"106.3672222",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Cucumber mosaic virus"
+      ],
+      "contig":"18",
+      "lib":"210,504",
+      "lat":"29.5319444",
+      "L50":"52"
+   },
+   "T074":{  
+      "local":"Chongqing",
+      "long":"106.3491667",
+      "virus":[  
+         "Chilli veinal mottle virus",
+         "Cucumber mosaic virus"
+      ],
+      "contig":"20",
+      "lib":"474,453",
+      "lat":"29.4961111",
+      "L50":"2,204"
+   },
+   "T027":{  
+      "contig":"66",
+      "long":"113.5529167",
+      "virus":[  
+         "Potato virus Y",
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "local":"Zhenzhou",
+      "L50":"9,908",
+      "lat":"34.6940167",
+      "lib":"5,456,680"
+   },
+   "T072":{  
+      "lat":"29.4961111",
+      "L50":"9,737",
+      "lib":"458,984",
+      "long":"106.3491667",
+      "virus":[  
+         "Southern tomato virus",
+         "Chilli veinal mottle virus"
+      ],
+      "contig":"9",
+      "local":"Chongqing"
+   },
+   "T134":{  
+      "L50":"89",
+      "lat":"36.842882",
+      "lib":"530,209",
+      "contig":"117",
+      "long":"118.865632",
+      "virus":[  
+         "Tomato zonate spot virus",
+         "Southern tomato virus"
+      ],
+      "local":"Shouguang"
+   },
+   "T184":{  
+      "contig":"60",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Potato virus Y"
+      ],
+      "long":"126.6493306",
+      "local":"Haerbin",
+      "L50":"1,169",
+      "lat":"45.6323806",
+      "lib":"1,515,601"
+   },
+   "T030":{  
+      "lib":"2,141,672",
+      "L50":"448",
+      "lat":"31.2699167",
+      "local":"Shanghai",
+      "contig":"121",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato mosaic virus"
+      ],
+      "long":"121.7010222"
+   },
+   "T014":{  
+      "local":"Shanghai",
+      "contig":"120",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Tomato chlorosis virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"121.3807111",
+      "lib":"529,480",
+      "L50":"438",
+      "lat":"30.8909333"
+   },
+   "T138":{  
+      "lib":"328,485",
+      "L50":"110",
+      "lat":"36.842877",
+      "local":"Shouguang",
+      "contig":"79",
+      "virus":[  
+         "Tomato zonate spot virus",
+         "Chilli veinal mottle virus",
+         "Tomato mosaic virus"
+      ],
+      "long":"118.865647"
+   },
+   "T078":{  
+      "lat":"37.4838611",
+      "L50":"3,464",
+      "lib":"2,673,263",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Tomato mottle mosaic virus",
+         "Cucumber mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"121.2737556",
+      "contig":"170",
+      "local":"Yantai"
+   },
+   "T129":{  
+      "lat":"26",
+      "L50":"3,010",
+      "lib":"1,132,681",
+      "long":"112",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Pepper veinal mottle virus",
+         "Tomato mosaic virus"
+      ],
+      "contig":"75",
+      "local":"Hengyang"
+   },
+   "T040":{  
+      "L50":"1,153",
+      "lat":"34.9184611",
+      "lib":"3,037,592",
+      "contig":"82",
+      "long":"113.5813889",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus"
+      ],
+      "local":"Zhenzhou"
+   },
+   "T016":{  
+      "lib":"984,709",
+      "L50":"3,890",
+      "lat":"30.8909556",
+      "local":"Shanghai",
+      "contig":"19",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"121.3807333"
+   },
+   "T003":{  
+      "L50":"75",
+      "lat":"36.842908",
+      "lib":"1,778,513",
+      "contig":"85",
+      "virus":[  
+         "Tomato mosaic virus"
+      ],
+      "long":"118.865603",
+      "local":"Shouguang"
+   },
+   "T146":{  
+      "lib":"2,387,893",
+      "L50":"602",
+      "lat":"36.321518",
+      "local":"Qingdao",
+      "contig":"233",
+      "long":"120.396622",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Tomato chlorosis virus"
+      ]
+   },
+   "T017":{  
+      "local":"Shanghai",
+      "long":"121.380725",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus",
+         "Tomato chlorosis virus"
+      ],
+      "contig":"61",
+      "lib":"1,403,783",
+      "lat":"30.8909472",
+      "L50":"2,159"
+   },
+   "T082":{  
+      "contig":"136",
+      "long":"121.2737833",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Chilli veinal mottle virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "local":"Yantai",
+      "L50":"2,763",
+      "lat":"37.4840278",
+      "lib":"3,656,142"
+   },
+   "T011":{  
+      "long":"121.3807194",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Tomato yellow leaf curl virus"
+      ],
+      "contig":"89",
+      "local":"Shanghai",
+      "lat":"30.8909417",
+      "L50":"1,899",
+      "lib":"1,744,336"
+   },
+   "T021":{  
+      "local":"Zhenzhou",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus",
+         "Potato virus Y"
+      ],
+      "long":"113.4101",
+      "contig":"76",
+      "lib":"457,652",
+      "lat":"34.8960444",
+      "L50":"1,352"
+   },
+   "T101":{  
+      "lat":"34",
+      "L50":"79",
+      "lib":"1,444,913",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"117",
+      "contig":"155",
+      "local":"Xuzhou"
+   },
+   "T050":{  
+      "contig":"46",
+      "long":"114.1088417",
+      "virus":[  
+         "Tomato chlorosis virus",
+         "Tomato mosaic virus",
+         "Potato virus Y"
+      ],
+      "local":"Zhenzhou",
+      "L50":"2,985",
+      "lat":"34.7356472",
+      "lib":"1,625,258"
+   },
+   "T031":{  
+      "long":"121.7008806",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato mosaic virus",
+         "Potato virus Y"
+      ],
+      "contig":"55",
+      "local":"Shanghai",
+      "lat":"31.2693222",
+      "L50":"617",
+      "lib":"1,101,551"
+   },
+   "T068":{  
+      "lat":"29.4961111",
+      "L50":"2,279",
+      "lib":"580,778",
+      "long":"106.3491667",
+      "virus":[  
+         "Chilli veinal mottle virus",
+         "Cucumber mosaic virus",
+         "Potato virus H"
+      ],
+      "contig":"48",
+      "local":"Chongqing"
+   },
+   "T058":{  
+      "contig":"48",
+      "long":"121.7013222",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus"
+      ],
+      "local":"Shanghai",
+      "L50":"2,692",
+      "lat":"31.2697111",
+      "lib":"778,445"
+   },
+   "T179":{  
+      "local":"Haerbin",
+      "contig":"110",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato mottle mosaic virus",
+         "Potato virus Y",
+         "Tomato mosaic virus"
+      ],
+      "long":"126.6493306",
+      "lib":"335,359",
+      "L50":"1,934",
+      "lat":"45.6323806"
+   },
+   "T148":{  
+      "long":"NA",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "contig":"48",
+      "local":"Unknown",
+      "lat":"NA",
+      "L50":"408",
+      "lib":"593,576"
+   },
+   "T045":{  
+      "lat":"34.9183306",
+      "L50":"3,271",
+      "lib":"3,539,370",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus",
+         "Potato virus Y",
+         "Tomato mosaic virus"
+      ],
+      "long":"113.5812278",
+      "contig":"60",
+      "local":"Zhenzhou"
+   },
+   "T067":{  
+      "contig":"24",
+      "virus":[  
+         "Chilli veinal mottle virus"
+      ],
+      "long":"106.2327778",
+      "local":"Chongqing",
+      "L50":"9,737",
+      "lat":"29.6238889",
+      "lib":"496,119"
+   },
+   "T015":{  
+      "L50":"661",
+      "lat":"30.8909528",
+      "lib":"663,253",
+      "contig":"102",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato chlorosis virus",
+         "Tomato mosaic virus"
+      ],
+      "long":"121.3807306",
+      "local":"Shanghai"
+   },
+   "T128":{  
+      "local":"Hengyang",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Cucumber mosaic virus",
+         "Tomato mosaic virus"
+      ],
+      "long":"114",
+      "contig":"130",
+      "lib":"473,799",
+      "lat":"32",
+      "L50":"95"
+   },
+   "T085":{  
+      "long":"121.618117",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Pepper mottle virus",
+         "Tomato chlorosis virus",
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus"
+      ],
+      "contig":"175",
+      "local":"Shanghai",
+      "lat":"31.163635",
+      "L50":"584",
+      "lib":"2,464,509"
+   },
+   "T116":{  
+      "local":"Jinan",
+      "contig":"175",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Potato virus Y",
+         "Potato virus S",
+         "Cucumber mosaic virus",
+         "Tomato zonate spot virus"
+      ],
+      "long":"117",
+      "lib":"1,126,654",
+      "L50":"717",
+      "lat":"36.0066667"
+   },
+   "T066":{  
+      "local":"Chongqing",
+      "virus":[  
+         "Chilli veinal mottle virus"
+      ],
+      "long":"106.2219444",
+      "contig":"10",
+      "lib":"439,879",
+      "lat":"29.6169444",
+      "L50":"9,632"
+   },
+   "T028":{  
+      "lat":"34.6940806",
+      "L50":"4,833",
+      "lib":"2,022,831",
+      "virus":[  
+         "Potato virus Y",
+         "Tomato mosaic virus"
+      ],
+      "long":"113.5529361",
+      "contig":"20",
+      "local":"Zhenzhou"
+   },
+   "T141":{  
+      "lat":"36.859137",
+      "L50":"315",
+      "lib":"489,666",
+      "long":"118.810835",
+      "virus":[  
+         "Southern tomato virus",
+         "Cucumber mosaic virus",
+         "Tomato mosaic virus"
+      ],
+      "contig":"100",
+      "local":"Shouguang"
+   },
+   "T120":{  
+      "lib":"3,593,908",
+      "L50":"4,726",
+      "lat":"36.0066667",
+      "local":"Jinan",
+      "contig":"98",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus",
+         "Potato virus Y",
+         "Tomato mosaic virus",
+         "Cucumber mosaic virus"
+      ],
+      "long":"117"
+   },
+   "T153":{  
+      "local":"Tangshan",
+      "virus":[  
+         "Tomato spotted wilt virus",
+         "Potato virus Y",
+         "Tomato mosaic virus",
+         "Cucumber mosaic virus",
+         "Tomato mottle mosaic virus",
+         "Spinach latent virus"
+      ],
+      "long":"118.18988",
+      "contig":"276",
+      "lib":"1,359,063",
+      "lat":"39.636363",
+      "L50":"965"
+   },
+   "T029":{  
+      "lat":"34.6946611",
+      "L50":"1,954",
+      "lib":"2,251,174",
+      "long":"113.5520417",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Potato virus Y",
+         "Tomato mosaic virus",
+         "Tomato chlorosis virus"
+      ],
+      "contig":"187",
+      "local":"Zhenzhou"
+   },
+   "T178":{  
+      "lib":"84,996",
+      "L50":"116",
+      "lat":"28.23514",
+      "local":"Changsha",
+      "contig":"151",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato mosaic virus",
+         "Tobacco vein banding mosaic virus"
+      ],
+      "long":"113.950401"
+   },
+   "T174":{  
+      "local":"Qingdao",
+      "contig":"217",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus",
+         "Tomato mosaic virus",
+         "Tomato chlorosis virus"
+      ],
+      "long":"120.396622",
+      "lib":"2,072,450",
+      "L50":"333",
+      "lat":"36.321518"
+   },
+   "T147":{  
+      "local":"Unknown",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"NA",
+      "contig":"51",
+      "lib":"489,509",
+      "lat":"NA",
+      "L50":"924"
+   },
+   "T052":{  
+      "lat":"34.7357083",
+      "L50":"2,016",
+      "lib":"329,551",
+      "long":"114.1094167",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus",
+         "Tomato mosaic virus"
+      ],
+      "contig":"19",
+      "local":"Zhenzhou"
+   },
+   "T133":{  
+      "local":"Shouguang",
+      "virus":[  
+         "Tomato zonate spot virus",
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"118.810865",
+      "contig":"89",
+      "lib":"877,245",
+      "lat":"36.859205",
+      "L50":"3,034"
+   },
+   "T139":{  
+      "L50":"6,288",
+      "lat":"36.842895",
+      "lib":"525,262",
+      "contig":"8",
+      "long":"118.865603",
+      "virus":[  
+         "Tomato mosaic virus"
+      ],
+      "local":"Shouguang"
+   },
+   "T107":{  
+      "contig":"163",
+      "virus":[  
+         "Tomato mottle mosaic virus"
+      ],
+      "long":"106.3491667",
+      "local":"Chongqing",
+      "L50":"80",
+      "lat":"29.4961111",
+      "lib":"586,014"
+   },
+   "T083":{  
+      "contig":"123",
+      "virus":[  
+         "Potato virus Y",
+         "Tomato mosaic virus",
+         "Cucumber mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"121.2734611",
+      "local":"Yantai",
+      "L50":"1,449",
+      "lat":"37.4836972",
+      "lib":"1,516,757"
+   },
+   "T019":{  
+      "contig":"57",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus",
+         "Potato virus Y"
+      ],
+      "long":"113.4101028",
+      "local":"Zhenzhou",
+      "L50":"1,730",
+      "lat":"34.8960083",
+      "lib":"1,712,648"
+   },
+   "T048":{  
+      "local":"Zhenzhou",
+      "contig":"76",
+      "long":"114.1087611",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Tomato chlorosis virus",
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "lib":"2,170,775",
+      "L50":"3,435",
+      "lat":"34.7356639"
+   },
+   "T081":{  
+      "local":"Yantai",
+      "contig":"102",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Potato virus Y",
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"121.2736556",
+      "lib":"2,238,525",
+      "L50":"3,641",
+      "lat":"37.4836667"
+   },
+   "T062":{  
+      "virus":[  
+         "Chilli veinal mottle virus"
+      ],
+      "long":"106.2219444",
+      "contig":"6",
+      "local":"Chongqing",
+      "lat":"29.6169444",
+      "L50":"6,385",
+      "lib":"645,262"
+   },
+   "T010":{  
+      "L50":"844",
+      "lat":"30.89095",
+      "lib":"1,254,058",
+      "contig":"75",
+      "virus":[  
+         "Tomato chlorosis virus",
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus"
+      ],
+      "long":"121.3807278",
+      "local":"Shanghai"
+   },
+   "T132":{  
+      "lat":"29.6222222",
+      "L50":"977",
+      "lib":"1,141,094",
+      "long":"106.2308333",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato zonate spot virus",
+         "Chilli veinal mottle virus"
+      ],
+      "contig":"157",
+      "local":"Chongqing"
+   },
+   "T018":{  
+      "L50":"427",
+      "lat":"34.8952472",
+      "lib":"2,013,675",
+      "contig":"75",
+      "long":"113.4089194",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Potato virus Y",
+         "Tomato mosaic virus"
+      ],
+      "local":"Zhenzhou"
+   },
+   "T035":{  
+      "L50":"6,362",
+      "lat":"31.2699167",
+      "lib":"772,228",
+      "contig":"16",
+      "long":"121.7010222",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato mosaic virus"
+      ],
+      "local":"Shanghai"
+   },
+   "T092":{  
+      "local":"Chongqing",
+      "long":"106.2308333",
+      "virus":[  
+         "Chilli veinal mottle virus",
+         "Tomato zonate spot virus"
+      ],
+      "contig":"158",
+      "lib":"1,483,211",
+      "lat":"29.6222222",
+      "L50":"331"
+   },
+   "T060":{  
+      "lib":"1,086,317",
+      "lat":"31.2697111",
+      "L50":"1,011",
+      "local":"Shanghai",
+      "long":"121.7013222",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Tomato chlorosis virus",
+         "Cucumber mosaic virus"
+      ],
+      "contig":"132"
+   },
+   "T180":{  
+      "local":"Haerbin",
+      "long":"126.6493306",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Tomato spotted wilt virus",
+         "Potato virus Y"
+      ],
+      "contig":"116",
+      "lib":"1,978,784",
+      "lat":"45.6323806",
+      "L50":"6,104"
+   },
+   "T022":{  
+      "lat":"34.6947278",
+      "L50":"3,189",
+      "lib":"5,097,305",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus",
+         "Potato virus H",
+         "Potato virus Y",
+         "Tomato mosaic virus"
+      ],
+      "long":"113.5520111",
+      "contig":"133",
+      "local":"Zhenzhou"
+   },
+   "T140":{  
+      "L50":"72",
+      "lat":"36.842907",
+      "lib":"303,363",
+      "contig":"176",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Chilli veinal mottle virus",
+         "Potato virus Y"
+      ],
+      "long":"118.865871",
+      "local":"Shouguang"
+   },
+   "T192":{  
+      "local":"Shanghai",
+      "contig":"368",
+      "long":"121.2261111",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus",
+         "Potato virus Y",
+         "Tomato mosaic virus"
+      ],
+      "lib":"620,771",
+      "L50":"119",
+      "lat":"31.0552778"
+   },
+   "T103":{  
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato zonate spot virus",
+         "Tomato mottle mosaic virus",
+         "Potato virus Y"
+      ],
+      "long":"106.2219444",
+      "contig":"258",
+      "local":"Chongqing",
+      "lat":"29.6169444",
+      "L50":"284",
+      "lib":"1,749,002"
+   },
+   "T005":{  
+      "long":"113.40895",
+      "virus":[  
+         "Potato virus Y",
+         "Tomato aspermy virus"
+      ],
+      "contig":"19",
+      "local":"Zhenzhou",
+      "lat":"34.8937917",
+      "L50":"3,412",
+      "lib":"3,217,664"
+   },
+   "T090":{  
+      "lib":"2,208,405",
+      "lat":"29.6238889",
+      "L50":"400",
+      "local":"Chongqing",
+      "long":"106.2327778",
+      "virus":[  
+         "Tomato mottle mosaic virus",
+         "Chilli veinal mottle virus",
+         "Potato virus Y",
+         "Southern tomato virus"
+      ],
+      "contig":"112"
+   },
+   "T112":{  
+      "virus":[  
+         "Chilli veinal mottle virus",
+         "Potato virus Y",
+         "Tomato mottle mosaic virus",
+         "Tomato zonate spot virus",
+         "Tomato mosaic virus",
+         "Cucumber mosaic virus",
+         "Southern tomato virus",
+         "Tomato aspermy virus"
+      ],
+      "long":"117",
+      "contig":"285",
+      "local":"Jinan",
+      "lat":"36.0066667",
+      "L50":"427",
+      "lib":"3,767,377"
+   },
+   "T007":{  
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Tomato mosaic virus"
+      ],
+      "long":"113.4099389",
+      "contig":"81",
+      "local":"Zhenzhou",
+      "lat":"34.8954778",
+      "L50":"103",
+      "lib":"356,265"
+   },
+   "T076":{  
+      "virus":[  
+         "Potato virus H",
+         "Potato virus Y",
+         "Chilli veinal mottle virus",
+         "Cucumber mosaic virus"
+      ],
+      "long":"106.3680556",
+      "contig":"270",
+      "local":"Chongqing",
+      "lat":"29.5330556",
+      "L50":"244",
+      "lib":"2,494,769"
+   },
+   "T172":{  
+      "local":"Qingdao",
+      "virus":[  
+         "Tomato chlorosis virus",
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus"
+      ],
+      "long":"120.396622",
+      "contig":"230",
+      "lib":"1,566,309",
+      "lat":"36.321518",
+      "L50":"715"
+   },
+   "T089":{  
+      "local":"Suzhou",
+      "contig":"247",
+      "virus":[  
+         "Tomato yellow leaf curl virus",
+         "Cucumber mosaic virus",
+         "Tomato mosaic virus"
+      ],
+      "long":"120.4780556",
+      "lib":"925,220",
+      "L50":"105",
+      "lat":"31.4469444"
+   },
+   "T114":{  
+      "local":"Jinan",
+      "long":"117",
+      "virus":[  
+         "Tomato mosaic virus",
+         "Tomato yellow leaf curl virus",
+         "Southern tomato virus"
+      ],
+      "contig":"252",
+      "lib":"1,350,890",
+      "lat":"36.0066667",
+      "L50":"197"
+   },
+   "T084":{  
+      "local":"Shanghai",
+      "contig":"144",
+      "virus":[  
+         "Southern tomato virus",
+         "Tomato yellow leaf curl virus",
+         "Pepper mottle virus",
+         "Potato virus Y"
+      ],
+      "long":"121.618117",
+      "lib":"2,106,209",
+      "L50":"8,370",
+      "lat":"31.163635"
+   },
+   "T152":{  
+      "local":"Panzhihua",
+      "virus":[  
+         "Cucumber mosaic virus",
+         "Tomato mosaic virus",
+         "Tomato spotted wilt virus"
+      ],
+      "long":"101.724462",
+      "contig":"97",
+      "lib":"963,348",
+      "lat":"26.586638",
+      "L50":"2,968"
+   }
+}
